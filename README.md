@@ -1,2 +1,17 @@
-# alura
-Repositorios para salvar os cursos realizados na alura
+## Alura - Node.js: Criando uma API Rest com Express e MongoDB
+
+Repositório para versionar e manter histórico de aprendizado durante as etapas do curso.
+
+## Ambiente:
+
+node-v18.20.3-win-x64 - Com variável de ambiente PATH adicionada.
+
+## Criação do projeto:
+
+mkdir alura-node-api-rest
+
+cd alura-node-api-rest
+
+npm init -y
+
+
