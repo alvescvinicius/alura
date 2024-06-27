@@ -14,4 +14,6 @@ cd alura-node-api-rest
 
 npm init -y
 
-
+- Adicionar type:module no package.json para ser possível importar modulos.
+- Criar servidor, server.js
+- Executa com node .\server.js 
