@@ -15,5 +15,13 @@ cd alura-node-api-rest
 npm init -y
 
 - Adicionar type:module no package.json para ser possível importar modulos.
+
 - Criar servidor, server.js
-- Executa com node .\server.js 
+
+- Executa com node .\server.js
+
+- Instalar nodemon para servidor reinicar sozinho: npm install nodemon@3.0.1
+
+- Adicionar script no packge json.
+
+- Executar o projeto com npm run dev
