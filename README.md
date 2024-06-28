@@ -25,3 +25,28 @@ npm init -y
 - Adicionar script no packge json.
 
 - Executar o projeto com npm run dev
+
+## Usando Framework Express
+
+npm install express@4.18.1
+
+## Usando persistencia - MongoDB Atlas
+
+- Criar cluster free
+
+- Criar Usuario de senha
+- Criar acesso de rede 
+- Connect para abrir opções escolher o driver do node na maior versao
+- npm install mongodb
+- User connection string que atlas fornece:
+
+mongodb+srv://developer:developer@cluster0.gphz3ab.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+- Criar pelo atlas web a database livraria, com collection name livros, sem preferencias adicionais
+- Criar dados na collection livros:
+
+_id : 667dfeaccae302d6d1c1415c
+titulo : "Piratas do Caribe"
+editora : "Disney"
+preco : 10
+paginas : 200
