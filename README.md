@@ -54,3 +54,8 @@ paginas : 200
 - npm install mongoose@7.3.4
 
 - npm install dotenv
+
+criar arquivo .env na raiz do projeto com DB_CONNECTION_STRING=mongodb+srv://developer:developer@cluster0.gphz3ab.mongodb.net/livraria?retryWrites=true&w=majority&appName=Cluster0
+
+## Aula 04 - Trabalhando com routers e controllers para livro
+
