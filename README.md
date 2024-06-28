@@ -33,7 +33,6 @@ npm install express@4.18.1
 ## Usando persistencia - MongoDB Atlas
 
 - Criar cluster free
-
 - Criar Usuario de senha
 - Criar acesso de rede 
 - Connect para abrir opções escolher o driver do node na maior versao
@@ -62,9 +61,5 @@ criar arquivo .env na raiz do projeto com DB_CONNECTION_STRING=mongodb+srv://dev
 ## Aula 05 - Adicionando funcionalidades
 
 - Criar CRUD para autores
-
 - Unir autores com livros
-
 - Buscar por parametro
-
-- 
