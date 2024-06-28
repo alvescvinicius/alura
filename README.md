@@ -50,3 +50,7 @@ titulo : "Piratas do Caribe"
 editora : "Disney"
 preco : 10
 paginas : 200
+
+- npm install mongoose@7.3.4
+
+- npm install dotenv
