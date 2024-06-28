@@ -59,3 +59,12 @@ criar arquivo .env na raiz do projeto com DB_CONNECTION_STRING=mongodb+srv://dev
 
 ## Aula 04 - Trabalhando com routers e controllers para livro
 
+## Aula 05 - Adicionando funcionalidades
+
+- Criar CRUD para autores
+
+- Unir autores com livros
+
+- Buscar por parametro
+
+- 
